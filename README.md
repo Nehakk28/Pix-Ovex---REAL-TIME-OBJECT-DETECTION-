@@ -1,8 +1,8 @@
-#PIX OVEX – Real-Time Object Detection System
+# PIX OVEX – Real-Time Object Detection System
 
 PIX OVEX is an AI-powered Real-Time Object Detection System developed using Python, TensorFlow, OpenCV, and CustomTkinter. The project performs intelligent object recognition through live webcam video streams and provides real-time monitoring using deep learning and computer vision technologies.
 
-##Features
+## Features
 - Real-time object detection using webcam
 - TensorFlow deep learning model integration
 - Live bounding boxes and confidence scores
@@ -12,7 +12,7 @@ PIX OVEX is an AI-powered Real-Time Object Detection System developed using Pyth
 - Interactive graphical user interface
 - Real-time monitoring and visualization
 
-##Technologies Used
+## Technologies Used
 - Python
 - TensorFlow
 - OpenCV
@@ -20,7 +20,7 @@ PIX OVEX is an AI-powered Real-Time Object Detection System developed using Pyth
 - SQLite
 - NumPy
 
-##System Modules
+## System Modules
 - Home Page
 - Login & Signup Module
 - Dashboard Module
@@ -28,7 +28,7 @@ PIX OVEX is an AI-powered Real-Time Object Detection System developed using Pyth
 - Detection History Module
 - Database Management Module
 
-##Installation
+## Installation
 1. Clone Repository
                 git clone https://github.com/Nehakk28/Pix-Ovex---REAL-TIME-OBJECT-DETECTION-.git
 2. Navigate to Project Folder
@@ -42,7 +42,7 @@ PIX OVEX is an AI-powered Real-Time Object Detection System developed using Pyth
 7. Run the Project
                  python app.py
    
-##Project Workflow
+## Project Workflow
 - User logs into the system
 - Webcam captures live video frames
 - OpenCV processes image frames
