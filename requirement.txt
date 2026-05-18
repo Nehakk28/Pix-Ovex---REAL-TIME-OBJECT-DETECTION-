@@ -1,0 +1,15 @@
+tensorflow==2.17.0
+opencv-python
+numpy
+pillow
+protobuf==4.25.3
+tf-slim
+pycocotools
+matplotlib
+pandas
+lxml
+Cython
+contextlib2
+tensorflow-hub
+tf-keras
+customtkinter

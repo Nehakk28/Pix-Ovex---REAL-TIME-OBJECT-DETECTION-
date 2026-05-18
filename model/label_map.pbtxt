@@ -1,0 +1,114 @@
+item {
+  id: 1
+  name: 'person'
+}
+
+item {
+  id: 2
+  name: 'bicycle'
+}
+
+item {
+  id: 3
+  name: 'car'
+}
+
+item {
+  id: 4
+  name: 'motorcycle'
+}
+
+item {
+  id: 5
+  name: 'airplane'
+}
+
+item {
+  id: 6
+  name: 'bus'
+}
+
+item {
+  id: 7
+  name: 'train'
+}
+
+item {
+  id: 8
+  name: 'truck'
+}
+
+item {
+  id: 9
+  name: 'boat'
+}
+
+item {
+  id: 44
+  name: 'bottle'
+}
+
+item {
+  id: 47
+  name: 'cup'
+}
+
+item {
+  id: 62
+  name: 'chair'
+}
+
+item {
+  id: 63
+  name: 'couch'
+}
+
+item {
+  id: 64
+  name: 'potted plant'
+}
+
+item {
+  id: 65
+  name: 'bed'
+}
+
+item {
+  id: 67
+  name: 'dining table'
+}
+
+item {
+  id: 72
+  name: 'tv'
+}
+
+item {
+  id: 73
+  name: 'laptop'
+}
+
+item {
+  id: 74
+  name: 'mouse'
+}
+
+item {
+  id: 75
+  name: 'remote'
+}
+
+item {
+  id: 76
+  name: 'keyboard'
+}
+
+item {
+  id: 77
+  name: 'cell phone'
+}
+
+item {
+  id: 84
+  name: 'book'
+}
