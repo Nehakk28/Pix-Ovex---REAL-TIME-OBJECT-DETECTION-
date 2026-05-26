@@ -47,7 +47,7 @@ PIX OVEX is an AI-powered Real-Time Object Detection System developed using Pyth
 
 ## Detection History
 
-![History](images/History(1).png)
+![History](images/History.png)
 
 # Technologies Used
 
@@ -67,7 +67,7 @@ PIX OVEX is an AI-powered Real-Time Object Detection System developed using Pyth
 - Live Detection Module
 - Detection History Module
 - Database Management Module
-- 
+
 # Installation
 
 ## Clone Repository
